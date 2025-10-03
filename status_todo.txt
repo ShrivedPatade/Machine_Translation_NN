@@ -1,0 +1,8 @@
+Status:-
+    Data Preparation is done
+    Model structure is set
+    Model Training till Epoch 3 is done
+ToDo:-
+    Import the Best Model trained so far
+    Imporve the Best Model for the remaining epoches
+    Implement evalution technique
